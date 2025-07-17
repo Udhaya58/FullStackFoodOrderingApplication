@@ -1,11 +1,11 @@
-#Project Explaination
+# Project Explaination
 https://drive.google.com/file/d/1OLp34x2BUK4oWF3Tu1F68XLo5CHrJork/view?usp=sharing
 
 
 # 🍽️ Online Food Ordering System – Full Stack Application
 
-#Name:Udhayamoorthy G
-#Email:udhayamoorthy2058@gmail.com
+# Name:Udhayamoorthy G
+# Email:udhayamoorthy2058@gmail.com
 
 
 
