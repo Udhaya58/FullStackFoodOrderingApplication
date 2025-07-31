@@ -106,7 +106,8 @@ Create a database:
 sql
 Copy
 Edit
-CREATE DATABASE food_ordering_system;
+CREATE DATABASE demo;//as in my project you can name it as any and update in the application.properties in backend
+
 Update application.properties in the backend:
 
 properties
